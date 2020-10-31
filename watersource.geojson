@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "watersource",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5264" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 10736, "building_n": "170542", "lat": 27.55969, "lng": 89.640759, "status": "COMPLETE", "sub_zone_i": 46, "createdAt": "\\N", "updatedAt": "2020-09-24 05:54:33", "POPULATION": null }, "geometry": { "type": "Point", "coordinates": [ 89.640759, 27.55969 ] } }
+]
+}
